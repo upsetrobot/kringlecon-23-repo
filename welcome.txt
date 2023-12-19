@@ -1,0 +1,24 @@
+The 2023 SANS Holiday Hack Challenge: A Holiday Odyssey
+Featuring 6: Geese A-Lei'ing!
+
+Welcome to this year's SANS Holiday Hack Challenge! We can't wait for you to
+hop in the game and share some holiday cheer as you build vital cybersecurity
+skills.
+
+This year, Santa and the elves have moved to an island archipelago near the
+equator in the Pacific Ocean. On these Geese Islands, Santa's team is using a
+new Artificial Intelligence tool called ChatNPT to prepare for the annual
+gift-giving extravaganza. The elves need your help in making sure that they
+apply ChatNPT appropriately. To that end, we recommend that you set up and use
+your own free account in OpenAI's ChatGPT, Google's Bard, or Microsoft's Bing
+AI tools to help you solve challenges while learning vital cybersecurity
+lessons.
+
+And, one last thing -- As you engage with our North Pole team and other
+players, remember to always treat them with kindness and respect following the
+Holiday Hack Challenge Code of Conduct and Terms of Use.
+
+Once you've read that code and agree to it, feel free to sign in. Also, please
+join us on Discord to chat with other players and the Holiday Hack team.
+
+Happy Holidays from the entire SANS Holiday Hack Challenge team!
